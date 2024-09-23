@@ -64,5 +64,13 @@ export hello_world="global hello world"
 # > 자식스크립트의 코드에서 부모스크립트에서 정의한 hello_world변수값이 출력된다.
 ```
 
+## 🍎 기타
+### 📖 쉘 종류
+- **sh : 초기의 유닉스 쉘(Bourne shell), 1977년에 발표**
+- ksh : 콘 쉘이라고도 불리며 1983년 데이비드 콘이 개발했으며 sh를 확장하여 만듬.
+- csh : 1978년 버클리 대학에서 C언어를 기반으로 만든 쉘.
+- **bash : 1987년 브라이언 폭스에 의해 만들어진 쉘로 sh와 대부분 호환.**
+
 ## 🍎 자료
+- [문법 검사기](https://www.shellcheck.net/)
 - [참고 자료](https://inpa.tistory.com/entry/LINUX-쉘-프로그래밍-핵심-문법-총정리)
